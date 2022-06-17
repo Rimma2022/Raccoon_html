@@ -1,0 +1,29 @@
+header{
+    background-color: coral;
+    height: 100px;
+}
+ul{
+    background-color: coral;
+    width: 60%;    
+}
+nav{
+    float: left;
+    width: 17%;    
+    height: 200px;           
+}
+h2{
+    color: coral;
+}
+h3{
+    font-weight: bold;
+}
+article{
+    background-color: aliceblue;    
+}
+footer{
+    background-color: coral;
+    height: 80px;
+}
+#cur{
+    font-style: italic;
+}
